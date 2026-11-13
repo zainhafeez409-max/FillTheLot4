@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516951772542",
+    "project_id": "fill-the-lot-cb3d5",
+    "storage_bucket": "fill-the-lot-cb3d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516951772542:android:2167d94e83caf246d7f72f",
+        "android_client_info": {
+          "package_name": "com.genigames.fillthelot.parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516951772542-rtpuhvojoukuu82ec5l6amocb77bon9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbL7gvN9DG6J1n8Ur4R1DFn4P6Jime9s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516951772542-rtpuhvojoukuu82ec5l6amocb77bon9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
